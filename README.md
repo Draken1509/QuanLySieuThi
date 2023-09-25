@@ -52,4 +52,4 @@ II) Các chức năng chính
 
 <p> Danh sách hóa đơn </p>
 
-![image](https://user-images.githubusercontent.com/86176263/270357977-3f00b64a-e5b9-46a3-8dde-0128f82f0eba.png)
+![image](https://user-images.githubusercontent.com/86176263/270357986-b4c93d9f-5266-4f5b-b4be-d0e9361196fc.png)
