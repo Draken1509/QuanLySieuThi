@@ -38,3 +38,7 @@ II) Các chức năng chính
 
 ![image](https://user-images.githubusercontent.com/86176263/270354102-b501f239-a99c-478f-866a-b54cb23dc22a.png)
 
+
+
+<p> 1 Lập hóa đơn </p>
+
