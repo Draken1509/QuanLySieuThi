@@ -33,3 +33,5 @@ II) Các chức năng chính
 9. Quản lí nhân viên
 10. Đăng nhập/ đăng xuất
 
+III). Giao diện
+1 Lập hóa đơn
